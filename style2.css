@@ -1,0 +1,66 @@
+
+.bg1 {
+    width: 2300vw;
+    height: 300vh;
+    background: #44f1bd;
+    font-family: Bow;
+  }
+  .quote11{
+    position: fixed;
+    top: 100px;
+    left: 1900px;
+    color: white;
+    font-size: 400px
+  }
+
+  .quote31{
+    position: fixed;
+    top: 400px;
+    left: 2520px;
+    color: white;
+    font-size: 50px
+  }
+  .quote41{
+    position: fixed;
+    top: 520px;
+    left: 2450px;
+    color: white;
+    font-size: 50px
+  }
+
+  .quote21{
+    position: fixed;
+    top: 650px;
+    left: 2700px;
+    color: white;
+    font-size: 50px
+  }
+
+  .hypLink{
+    width: 200px;
+    height: 300vh;
+    background: #ffffff;
+  }
+
+  .Be2{
+    position: relative;    
+    transform: rotate(90deg);
+    top: -30px;
+    left: 10px;
+    color: rgb(0, 81, 255);
+    font-family: Bow;
+    font-size: 250px
+  }
+
+  .outer-wrapper {
+    width: 100vh;
+    height: 100vw;
+    transform: rotate(-90deg) translateX(-100vh);
+    transform-origin: top left;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    position: absolute;
+  }
+  ::-webkit-scrollbar {
+    display:none;
+  }

@@ -1,0 +1,232 @@
+
+  @font-face {
+    font-family: Bow;
+    src: url(BOOWIE.ttf);
+  }
+
+  .wrapper {
+    display: flex;
+    flex-direction: row;
+    width: 4000px;
+    transform: rotate(90deg) translateY(-100vh);
+    transform-origin: top left;
+  }
+  
+.containTitle {
+  width:130px;
+  height: 100vh;
+  background: white;
+  position: relative;
+  color: rgb(19, 98, 255);
+}
+  .one {
+    width:50vw;
+    height: 100vh;
+    background: #0bbaa0;
+    position: relative;
+    color: white;
+  }
+
+  .dlma {
+    position: relative;
+    top: 113px;
+    left: 10px;
+    font-size: 110px
+  }
+.dlma2{
+    position: relative;    
+    transform: rotate(-90deg);
+    top: 400px;
+    left: 40px;
+    font-size: 20px
+
+  }
+  .two {
+    width: 2300vw;
+    height: 300vh;
+    background: #042f22;
+    font-family: Bow;
+  }
+  .quote1{
+    position: fixed;
+    top: 100px;
+    left: 1900px;
+    color: white;
+    font-size: 400px
+  }
+
+  .quote3{
+    position: fixed;
+    top: 400px;
+    left: 2520px;
+    color: white;
+    font-size: 50px
+  }
+  .quote4{
+    position: fixed;
+    top: 520px;
+    left: 2450px;
+    color: white;
+    font-size: 50px
+  }
+
+  .quote2{
+    position: fixed;
+    top: 650px;
+    left: 2700px;
+    color: white;
+    font-size: 50px
+  }
+
+  .three {
+    width: 200px;
+    height: 300vh;
+    background: #ffffff;
+  }
+
+  .Be{
+    position: relative;    
+    transform: rotate(90deg);
+    top: -30px;
+    left: 10px;
+    color: rgb(0, 81, 255);
+    font-family: Bow;
+    font-size: 250px
+    
+  }
+  .four {
+    background: #00dfdf;
+
+  }
+
+  .outer-wrapper {
+    width: 100vh;
+    height: 100vw;
+    transform: rotate(-90deg) translateX(-100vh);
+    transform-origin: top left;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    position: absolute;
+  }
+  ::-webkit-scrollbar {
+    display:none;
+  }
+  
+.fixed{
+  position: fixed;
+  left: 2550px;
+  top: 100px;
+  }
+
+  .bg1 {
+    width: 2100px;
+    height: 300vh;
+    background: #3bdfad;
+    font-family: Bow;
+  }
+  .that{
+    position: fixed;
+    top: 50px;
+    left: 300px;
+    color: white;
+    font-size: 400px
+  }
+
+  .quote31{
+    position: fixed;
+    top: 400px;
+    left: 920px;
+    color: white;
+    font-size: 50px
+  }
+  .quote41{
+    position: fixed;
+    top: 600px;
+    left: 1350px;
+    color: white;
+    font-size: 50px
+  }
+
+  .quote21{
+    position: fixed;
+    top: 660px;
+    left: 1400px;
+    color: white;
+    font-size: 50px
+  }
+
+  .hypLink{
+    width: 200px;
+    height: 300vh;
+    background: #ffffff;
+  }
+
+  .Be2{
+    position: relative;    
+    transform: rotate(90deg);
+    top: 40px;
+    left: -10px;
+    color: rgb(0, 81, 255);
+    font-family: Bow;
+    font-size: 125px
+  }
+  .wrapper2 {
+    display: flex;
+    flex-direction: row;
+    width: 3000px;
+    transform: rotate(90deg) translateY(-100vh);
+    transform-origin: top left;
+  }
+
+  .bacg{
+    width: 3800px;
+    height: 300vh;
+    background: #f6a5cb;
+    font-family: Bow;
+  }
+  .Last{
+    position: fixed;
+    top: 50px;
+    left: 300px;
+    color: white;
+    font-size: 400px
+  }
+
+  .winter{
+    position: fixed;
+    top: 400px;
+    left: 920px;
+    color: white;
+    font-size: 50px
+  }
+  .spring{
+    position: fixed;
+    top: 550px;
+    left: 1250px;
+    color: white;
+    font-size: 50px
+  }
+
+  .daybreak{
+    position: fixed;
+    top: 720px;
+    left: 1600px;
+    color: white;
+    font-size: 50px
+  }
+
+  .hypLink1{
+    width: 200px;
+    height: 300vh;
+    background: #ffffff;
+  }
+
+  .Be3{
+    position: relative;    
+    transform: rotate(90deg);
+    top: 350px;
+    left: 300px;
+    color: rgb(54, 241, 170);
+    font-family: Bow;
+    font-size: 170px
+  }
